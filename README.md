@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="center">👋 I'm Sai Chaitanya Chada <br> A Computer Science Student & Tech Enthusiast</p>
 
-- 📫 You can reach me at [chsaichaitanya1@gmail.com](mailto:chsaichaitanya1@gmail.com "Email ID")
+- 📫 You can reach me at [chsc.1053@outlook.com](mailto:chsc.1053@outlook.com "Email ID")
 
 <h3 align="left">🛠 Languages and tools</h3>
 
