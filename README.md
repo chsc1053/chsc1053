@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-<p align="center">👋 I'm Sai Chaitanya Chada <br> A Computer Science Student & Tech Enthusiast</p>
+<p align="center">👋 I'm Sai Chaitanya Chada <br> A Computer Science Graduate & Tech Enthusiast</p>
 
 - 📫 You can reach me at [chsc.1053@outlook.com](mailto:chsc.1053@outlook.com "Email ID")
 
